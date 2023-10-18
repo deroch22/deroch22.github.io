@@ -355,7 +355,7 @@ article .icon {
 
 /* PROJECTS SECTION */
 
-#projects {
+#SKILL {
   position: relative;
 }
 
@@ -364,18 +364,18 @@ article .icon {
   background: rgb(250, 250, 250);
 }
 
-.project-img {
+.SKILL-img {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
 }
 
-.project-title {
+.SKILL-title {
   margin: 1rem;
   color: black;
 }
 
-.project-btn {
+.SKILL-btn {
   color: black;
   border-color: rgb(163, 163, 163);
 }
